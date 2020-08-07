@@ -1,0 +1,15 @@
+current directory: /Users/takasu/pra/docker_rails_react/api/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.7/ext/bootsnap
+/Users/takasu/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20200808-1739-1byntc1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takasu/pra/docker_rails_react/api/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.7/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/takasu/pra/docker_rails_react/api/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.7/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/takasu/pra/docker_rails_react/api/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.7/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200808-1739-1tvxvs6/bootsnap
